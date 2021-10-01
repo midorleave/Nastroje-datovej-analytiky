@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0">
+	<name>Cesta z doma na FF</name>
+	<trk><name>Example gpx</name><number>1</number><trkseg>
+		<trkpt lat="49.201191" lon="16.634467"><ele>1</ele></trkpt>
+		<trkpt lat="49.201302" lon="16.633563"><ele>2</ele></trkpt>
+		<trkpt lat="49.201419" lon="16.632305"><ele>3</ele></trkpt>
+		<trkpt lat="49.201686" lon="16.630986"><ele>4</ele></trkpt>
+		<trkpt lat="49.202576" lon="16.629141"><ele>5</ele></trkpt>
+		<trkpt lat="49.202992" lon="16.627925"><ele>6</ele></trkpt>
+		<trkpt lat="49.202200" lon="16.623649"><ele>7</ele></trkpt>
+		<trkpt lat="49.202119" lon="16.620781"><ele>8</ele></trkpt>
+		<trkpt lat="49.201477" lon="16.618023"><ele>9</ele></trkpt>
+		<trkpt lat="49.201497" lon="16.615763"><ele>10</ele></trkpt>
+		<trkpt lat="49.199787" lon="16.610480"><ele>11</ele></trkpt>
+        <trkpt lat="49.200123" lon="16.608766"><ele>12</ele></trkpt>
+        <trkpt lat="49.200204" lon="16.607940"><ele>13</ele></trkpt>
+        <trkpt lat="49.198565" lon="16.604106"><ele>14</ele></trkpt>
+        <trkpt lat="49.200072" lon="16.601332"><ele>15</ele></trkpt>
+        <trkpt lat="49.199960" lon="16.599181"><ele>16</ele></trkpt>
+        <trkpt lat="49.200275" lon="16.598807"><ele>17</ele></trkpt>
+	</trkseg></trk>
+</gpx>
